@@ -1,5 +1,5 @@
 # NLP - Part-of-Speech Tagger
-Implementation of a first-order maximum entropy Markov model for part-of-speech tagging. The tags used are those in the [Penn Treebank](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html).
+Implementation of a first-order maximum entropy Markov model for part-of-speech tagging, using Viterbi decoding and customized features. The output tagset come from the [Penn Treebank](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html).
 
 ## Test Set Model Accuracy: 96.3%
 
